@@ -1,4 +1,4 @@
-# COVID-19 1st and 2nd Wave Analysis
+# COVID-19 1st and 2nd wave analysis
  
 This is a project done on a specific course taken at the Electrical and Computer Engineering department of the Aristotle University of Thessaloniki on Data Analysis.
 The purpose of this project was to investigate the 1st and 2nd wave of the COVID-19 pandemic across various countries using fundamental data analysis approaches.
